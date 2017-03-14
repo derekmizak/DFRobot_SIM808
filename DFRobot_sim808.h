@@ -347,7 +347,7 @@ public:
 	Stream *sgprsSerial;
 	
 public:
-	struct gspdata{
+	struct gpsdata{
 		uint16_t year;
 		uint8_t month;
 		uint8_t day;
